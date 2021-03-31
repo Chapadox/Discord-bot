@@ -7,7 +7,7 @@ exports.run = async (bot, msg, args) => {
         },
         description: 'Comandos Do Bot',
         image: {
-            url: 'https://uploaddeimagens.com.br/images/003/175/816/full/carbon.png?1617155737',
+            url: 'https://uploaddeimagens.com.br/images/003/175/869/full/carbon_%281%29.png?1617159738',
         },
         timestamp: new Date(),
         footer: {
