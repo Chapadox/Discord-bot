@@ -26,9 +26,12 @@
 
 <img src="https://i.ibb.co/yqF1CKV/botp1.png" alt="Bitcoin">
 
+<p align="center">
 <img src="https://i.ibb.co/hHWdd0W/botp2.png" align="center" alt="Dolar">
 
 <img src="https://i.ibb.co/7kFShjy/botp3.png" align="center" alt="Help">
+</p>
+
 
 ## Creator 🖌️
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
