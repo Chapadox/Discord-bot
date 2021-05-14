@@ -1,4 +1,4 @@
-<h1 align="center">🪐 Dragon Ball 🪐</h1>
+<h1 align="center">🤖 Discord Bot 🤖</h1>
 
 
 ## About 📚
